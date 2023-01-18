@@ -3,24 +3,24 @@
 ## AIM:
 To design a website to perform mathematical calculations in server side.
 
-## DESIGN STEPS:
+## DESIGN:
 
-## Step 1:
+### STEP 1:
 Clone the repository from GitHub
 
-## Step 2:
+### STEP 2:
 Create Django Admin project.
 
-## Step 3:
+### STEP 3:
 Create a New App.
 
-## Step 4:
+### STEP 4:
 Create python programs for views and urls.
 
-## Step 5:
+### STEP 5:
 Create a HTML file of forms.
 
-## Step 6:
+### STEP 6:
 Publish the website in the given URL.
 
 ## PROGRAM :
